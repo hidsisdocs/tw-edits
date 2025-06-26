@@ -18,7 +18,7 @@ It is not a NodeJS library!
 
 Once the package is installed, it can be imported into your browser application.
 
-The `@digitalpersona/fingerprint` provides only a legacy IIFE module.
+The `@digitalpersona/fingerprint` library only provides a legacy IIFE module.
 No modern ESM module is provided.
 
 The IIFE module works in legacy and/or for simple "build-less" applications,
