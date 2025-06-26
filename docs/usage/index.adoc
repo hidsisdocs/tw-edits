@@ -202,9 +202,9 @@ device driver.
 The DigitalPersona Agent is a native Microsoft Windows application and is a part of
 HID DigitalPersona clients such as:
 
-* HID DigitalPersona Workstation,
+* HID DigitalPersona Workstation
 * HID DIgitalPersona Kiosk
-* HID Authentication Device Client (ADC, previously Lite Client).
+* HID Authentication Device Client (ADC, previously Lite Client)
 
 If you expect that your users may not have any of the HID DigitalPersona clients installed,
 provide a https://digitalpersona.hidglobal.com/lite-client/[link
