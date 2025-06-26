@@ -9,8 +9,8 @@ This JavaScript library enables the use fingerprint readers in web browsers, all
 
 The Fingerprint API requires one of the following HID DigitalPersona clients to be installed on the user's machine:
 
-* [HID DigitalPersona Workstation / Kiosk](https://www.hidglobal.com/product-mix/digitalpersona) -- part of HID DigitalPersona Premium suite, providing multi-factor authentication, biometrics, integration with Microsoft® Active Directory, etc
-* [HID Authentication Device Client ](https://digitalpersona.hidglobal.com/lite-client/) (previously "Lite Client") -- a free Microsoft Windows® client providing communication with devices such as fingerprint readers and cards
+* [HID DigitalPersona Workstation / Kiosk](https://www.hidglobal.com/product-mix/digitalpersona) - part of HID DigitalPersona Premium suite, providing multi-factor authentication, biometrics, integration with Microsoft® Active Directory, etc
+* [HID Authentication Device Client ](https://digitalpersona.hidglobal.com/lite-client/) (ADC, previously Lite Client) - a free Microsoft Windows® client providing communication with devices such as fingerprint readers and cards
 
 ## Target platforms and technologies
 
